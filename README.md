@@ -4,4 +4,4 @@
   * Numpy
   * Pandas
   * Seaborn
-  * Matplotlib 
+  * Matplotlib
